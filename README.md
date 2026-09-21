@@ -4,6 +4,7 @@ Coleccion de proyectos practicos desarrollados con multiples lenguajes
 - [ ] java
 - [ ] C++
 - [ ] web
+- [ ] Next.Jv
 
 Próximamente
 - [ ] API en PHP + MySQL
